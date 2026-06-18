@@ -1,0 +1,27 @@
+{
+  "name": "Mike Thompson",
+  "current_location": {
+    "lat": 32.7767,
+    "lon": -96.797,
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "home_base": {
+    "lat": 35.1495,
+    "lon": -90.049,
+    "city": "Memphis",
+    "state": "TN"
+  },
+  "equipment_type": "Dry Van",
+  "trailer_length_ft": 53,
+  "max_weight_lbs": 44000,
+  "available_date": "2026-06-19",
+  "min_effective_rate_per_mile": 2.5,
+  "preferred_regions": [
+    "Southeast",
+    "Midwest"
+  ],
+  "hazmat_certified": false,
+  "team_driver": false,
+  "notes": "[DIRECT] No livestock -- 'I don't do livestock. I'm not set up for that.'\n[DIRECT] No oversized loads -- 'I don't have the permits for oversized freight.'\n[DIRECT] Max 5 days preferred -- 'I don't want to be out more than five days if I can help it.'\n[DIRECT] Will stretch to 7 days if rate justifies it.\n[IMPLIED] Avoids West Coast -- 'I avoid the West Coast like the plague' (Colorado and beyond).\n[IMPLIED] Prefers loads pointing toward Memphis -- emphasizes Southeast brings him toward home.\n[IMPLIED] High deadhead sensitivity -- detailed story about a load ruined by 200 empty pickup miles."
+}

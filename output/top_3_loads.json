@@ -1,0 +1,41 @@
+[
+  {
+    "rank": 1,
+    "load_id": "L002",
+    "route": "Fort Worth, TX -> Nashville, TN",
+    "trailer_type": "Dry Van",
+    "weight_lbs": 42000,
+    "price_usd": 3200.0,
+    "deadhead_to_origin_miles": 31.05,
+    "loaded_miles": 645.0,
+    "deadhead_home_miles": 196.33,
+    "total_miles": 872.38,
+    "effective_rate_per_mile": 3.668
+  },
+  {
+    "rank": 2,
+    "load_id": "L003",
+    "route": "Dallas, TX -> Atlanta, GA",
+    "trailer_type": "Dry Van",
+    "weight_lbs": 39500,
+    "price_usd": 3800.0,
+    "deadhead_to_origin_miles": 0.0,
+    "loaded_miles": 719.62,
+    "deadhead_home_miles": 336.69,
+    "total_miles": 1056.31,
+    "effective_rate_per_mile": 3.597
+  },
+  {
+    "rank": 3,
+    "load_id": "L010",
+    "route": "Austin, TX -> Memphis, TN",
+    "trailer_type": "Dry Van",
+    "weight_lbs": 41000,
+    "price_usd": 2600.0,
+    "deadhead_to_origin_miles": 182.12,
+    "loaded_miles": 559.94,
+    "deadhead_home_miles": 0.0,
+    "total_miles": 742.06,
+    "effective_rate_per_mile": 3.504
+  }
+]
