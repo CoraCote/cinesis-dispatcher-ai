@@ -193,13 +193,16 @@ def rank_loads(
         effective_rate = load.price / total
 
         if effective_rate < profile.min_effective_rate_per_mile:
+            shortfall = profile.min_effective_rate_per_mile - effective_rate
             below_min.append(
                 BelowMinRate(
                     load_id=load.load_id,
                     reason=(
                         f"effective rate ${effective_rate:.3f}/mi < "
                         f"minimum ${profile.min_effective_rate_per_mile:.2f}/mi "
-                        f"(${load.price:,.0f} / {total:.1f} total miles)"
+                        f"(shortfall ${shortfall:.3f}/mi) | "
+                        f"${load.price:,.0f} / {total:.1f} mi total "
+                        f"[DH-to-origin {dh_origin:.1f} + loaded {loaded:.1f} + DH-home {dh_home:.1f}]"
                     ),
                 )
             )

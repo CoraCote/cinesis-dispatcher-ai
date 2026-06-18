@@ -11,3 +11,22 @@ L009,Flatbed,Dallas,TX,32.7767,-96.7970,Kansas City,MO,39.0997,-94.5786,42000,35
 L010,Dry Van,Austin,TX,30.2672,-97.7431,Memphis,TN,35.1495,-90.0490,41000,2600,Consumer electronics — returns to home base
 L011,Dry Van,Dallas,TX,32.7767,-96.7970,St. Louis,MO,38.6270,-90.1994,37500,2600,Food-grade dry goods
 L012,Dry Van,Little Rock,AR,34.7465,-92.2896,Atlanta,GA,33.7490,-84.3880,43000,2600,Auto parts — high deadhead from Dallas
+L013,Dry Van,Shreveport,LA,32.5252,-93.7502,Nashville,TN,36.1627,-86.7816,36500,2900,Automotive aftermarket parts — strong Southeast lane
+L014,Dry Van,Dallas,TX,32.7767,-96.7970,Charlotte,NC,35.2271,-80.8431,41000,4000,Retail apparel — long haul Southeast no deadhead to pickup
+L015,Dry Van,Houston,TX,29.7604,-95.3698,Birmingham,AL,33.5186,-86.8104,37500,3200,Plastic resin pellets — Southeast industrial corridor
+L016,Dry Van,Oklahoma City,OK,35.4676,-97.5164,Louisville,KY,38.2527,-85.7585,40000,3400,Home improvement goods — Midwest corridor
+L017,Dry Van,Dallas,TX,32.7767,-96.7970,Jacksonville,FL,30.3322,-81.6557,43000,4000,Building materials — long Southeast haul no deadhead to pickup
+L018,Dry Van,Fort Worth,TX,32.7555,-97.3308,Knoxville,TN,35.9606,-83.9207,38000,3500,Manufacturing components — Southeast run minimal deadhead
+L019,Dry Van,Dallas,TX,32.7767,-96.7970,Memphis,TN,35.1495,-90.0490,45500,2800,Paper products — 1500 lbs over driver max capacity
+L020,Reefer,Dallas,TX,32.7767,-96.7970,Atlanta,GA,33.7490,-84.3880,40000,4200,Fresh produce — requires temperature-controlled trailer
+L021,Flatbed,Shreveport,LA,32.5252,-93.7502,Memphis,TN,35.1495,-90.0490,35000,2200,Lumber bundles — requires flatbed equipment
+L022,Dry Van,Chicago,IL,41.8781,-87.6298,Indianapolis,IN,39.7684,-86.1581,38000,2100,Short regional haul — 813 mi deadhead to origin kills rate
+L023,Dry Van,Dallas,TX,32.7767,-96.7970,Shreveport,LA,32.5252,-93.7502,32000,1100,Local short haul — pay does not cover 280 mi return deadhead home
+L024,Dry Van,Oklahoma City,OK,35.4676,-97.5164,Kansas City,MO,,,38000,2800,Broker confirmed city but GPS coordinates not yet provided
+L025,Dry Van,Houston,TX,29.7604,-95.3698,Atlanta,GA,33.7490,-84.3880,38000,TBD,Spot rate negotiation pending — broker said call for rate
+L026,Dry Van,Dallas,TX,32.7767,-96.7970,,,,,41000,,Load details incomplete — broker has not confirmed destination or rate
+L027,Dry Van,Jackson,MS,32.2988,-90.1848,Raleigh,NC,35.7796,-78.6382,40000,5000,Furniture — long Southeast haul toward East Coast
+L028,Dry Van,Baton Rouge,LA,30.4515,-91.1871,Memphis,TN,35.1495,-90.0490,36000,2000,Food-grade dry goods — drops driver at home base no deadhead home
+L029,Dry Van,Memphis,TN,35.1495,-90.0490,Atlanta,GA,33.7490,-84.3880,39500,3400,Retail goods — high deadhead to origin justified by loaded rate
+L030,Dry Van,Little Rock,AR,34.7465,-92.2896,Charlotte,NC,35.2271,-80.8431,41500,4200,Auto parts — long Southeast corridor run
+L031,Dry Van,Dallas,TX,32.7767,-96.7970,Montgomery,AL,32.3668,-86.3000,38500,2800,Consumer goods — no deadhead to pickup strong Southeast lane
