@@ -1,0 +1,13 @@
+load_id,trailer_type,origin_city,origin_state,origin_lat,origin_lon,destination_city,destination_state,destination_lat,destination_lon,weight_lbs,price,notes
+L001,Reefer,Dallas,TX,32.7767,-96.7970,Chicago,IL,41.8781,-87.6298,38000,5500,Temperature-controlled perishables
+L002,Dry Van,Fort Worth,TX,32.7555,-97.3308,Nashville,TN,36.1627,-86.7816,42000,3200,General retail merchandise
+L003,Dry Van,Dallas,TX,32.7767,-96.7970,Atlanta,GA,33.7490,-84.3880,39500,3800,Packaged consumer goods
+L004,Dry Van,Shreveport,LA,32.5252,-93.7502,Birmingham,AL,33.5186,-86.8104,36000,2400,Industrial equipment parts
+L005,Dry Van,Dallas,TX,32.7767,-96.7970,Denver,CO,39.7392,-104.9903,40000,2200,Building materials — far from home base
+L006,Dry Van,Dallas,TX,32.7767,-96.7970,Houston,TX,29.7604,-95.3698,47500,1900,Overweight load — broker listed wrong weight
+L007,Dry Van,Oklahoma City,OK,35.4676,-97.5164,Memphis,TN,35.1495,-90.0490,35000,,Rate TBD — broker has not confirmed price
+L008,Dry Van,Little Rock,AR,34.7465,-92.2896,,,,,38000,2100,Destination address not confirmed yet
+L009,Flatbed,Dallas,TX,32.7767,-96.7970,Kansas City,MO,39.0997,-94.5786,42000,3500,Steel coils — requires flatbed with tarps
+L010,Dry Van,Austin,TX,30.2672,-97.7431,Memphis,TN,35.1495,-90.0490,41000,2600,Consumer electronics — returns to home base
+L011,Dry Van,Dallas,TX,32.7767,-96.7970,St. Louis,MO,38.6270,-90.1994,37500,2600,Food-grade dry goods
+L012,Dry Van,Little Rock,AR,34.7465,-92.2896,Atlanta,GA,33.7490,-84.3880,43000,2600,Auto parts — high deadhead from Dallas
